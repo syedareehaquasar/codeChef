@@ -9,3 +9,6 @@ tc = int(input())
 for i in range(tc):
     word = input()
     print(is_readable(word, letters))
+
+
+#  ques - https://www.codechef.com/WETS0220

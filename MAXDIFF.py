@@ -26,3 +26,5 @@ while tc > 0:
     elements = list(map(int, input().split()))
     print(solution(n, k, sorted(elements)))
     tc -= 1
+
+# https://www.codechef.com/WETS0220/problems/WETS0203
